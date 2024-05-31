@@ -1,0 +1,6 @@
+2024-05-31 16:47:05: Gender=Female, Height=89.0, Predicted Weight=-15.9296875
+2024-05-31 16:47:12: Gender=Female, Height=189.0, Predicted Weight=90.712890625
+2024-05-31 16:47:31: Gender=Male, Height=189.0, Predicted Weight=99.310546875
+2024-05-31 16:48:53: Gender=Male, Height=889.0, Predicted Weight=845.80859375
+2024-05-31 17:40:17: Gender=Male, Height=456.0, Predicted Weight=384.044921875
+2024-05-31 17:44:04: Gender=Male, Height=123.0, Predicted Weight=28.92578125
